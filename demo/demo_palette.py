@@ -1,0 +1,1 @@
+from mmseg.core.evaluation import get_palette
